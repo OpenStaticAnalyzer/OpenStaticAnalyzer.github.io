@@ -1,4 +1,4 @@
-![](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer/raw/master/OpenStaticAnalyzer/doc/logo/OSA_small.png)
+![](https://raw.githubusercontent.com/sed-inf-u-szeged/OpenStaticAnalyzer/master/OpenStaticAnalyzer/doc/logo/OSA_small.png)
 
 # OpenStaticAnalyzer™
 Copyright (c) 2004-2017 Department of Software Engineering, University of Szeged, Hungary.
