@@ -2,6 +2,8 @@
 # OpenStaticAnalyzer™
 Copyright (c) 2004-2017 Department of Software Engineering, University of Szeged, Hungary.
 
+![](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer/blob/master/OpenStaticAnalyzer/doc/logo/OSA_small.png)
+
 ## About
 
 OpenStaticAnalyzer is a source code analyzer tool, which can perform deep static analysis of the source code of complex systems.
@@ -51,4 +53,4 @@ OpenStaticAnalyzer is free software, distributed in the hope that it will be use
 
 Further information, source code, and release packages are available at the project development site:
 
-https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer
+[https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer)
