@@ -1,8 +1,7 @@
 ![](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer/blob/master/OpenStaticAnalyzer/doc/logo/OSA_small.png)
+
 # OpenStaticAnalyzer™
 Copyright (c) 2004-2017 Department of Software Engineering, University of Szeged, Hungary.
-
-![](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer/blob/master/OpenStaticAnalyzer/doc/logo/OSA_small.png)
 
 ## About
 
@@ -51,6 +50,4 @@ OpenStaticAnalyzer is free software, distributed in the hope that it will be use
 
 ## Project site
 
-Further information, source code, and release packages are available at the project development site:
-
-[https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer)
+Further information, source code, and release packages are available at the [project development site](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer).
