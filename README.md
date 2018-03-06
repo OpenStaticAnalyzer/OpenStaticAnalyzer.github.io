@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/sed-inf-u-szeged/OpenStaticAnalyzer/master/OpenStaticAnalyzer/doc/logo/OSA_small.png)
 
 # OpenStaticAnalyzer™
-Copyright (c) 2004-2017 Department of Software Engineering, University of Szeged, Hungary.
+Copyright (c) 2004-2018 Department of Software Engineering, University of Szeged, Hungary.
 
 ## About
 
@@ -21,16 +21,18 @@ The most important product characteristics of OpenStaticAnalyzer are the followi
     - Metric threshold violations (MetricHunter module)
     - Re-prioritized and carefully selected [PMD] 5.2.3 coding rule violations
     - [FindBugs] 3.0.0 coding rule violations
+    - [Pylint] 1.8.2 coding rule violations
 - Clone detection (copy-pasted source code fragments) extended with clone tracking and "clone smells"
     - Syntax-based, so-called Type-2 clones
-- Metrics calculation at component, file, package, class, and method levels:
+- Metrics calculation at component, file, package, class, method, and function levels:
     - Source code metrics
     - Clone metrics
     - Coding rule violation metrics
-- Supported languages: Java (C/C++, C#, Python will be available in the near future).
+- Supported languages: Java, Python (C/C++, C# will be available in the near future).
 
 [PMD]:http://pmd.sourceforge.net/
 [FindBugs]:http://findbugs.sourceforge.net
+[Pylint]:http://www.pylint.org/
 
 By continuous static analysis, the software developers can:
 - reduce the software erosion rate and this way decrease development costs;
@@ -38,7 +40,7 @@ By continuous static analysis, the software developers can:
 - the number of errors in delivered software can be reduced, so the operational risks can be decreased, increasing the company's reputation.
 
 ## License
-OpenStaticAnalyzer 1.0 is licensed under the [European Union Public Licence](https://joinup.ec.europa.eu/software/page/eupl) (EUPL) v1.2.
+OpenStaticAnalyzer 2.0 is licensed under the [European Union Public Licence](https://joinup.ec.europa.eu/software/page/eupl) (EUPL) v1.2.
 
 OpenStaticAnalyzer is free software, distributed in the hope that it will be useful, but on an "AS IS" basis, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the LICENSE file for more details.
 
@@ -46,7 +48,9 @@ OpenStaticAnalyzer is free software, distributed in the hope that it will be use
 
 ### User's Guide
 
-[User's guide](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer/blob/master/OpenStaticAnalyzer/java/doc/usersguide/md/Main.md)
+[Java](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer/blob/master/OpenStaticAnalyzer/java/doc/usersguide/md/Main.md)
+
+[Python](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer/blob/master/OpenStaticAnalyzer/python/doc/usersguide/md/Main.md)
 
 ## Project site
 
