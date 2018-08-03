@@ -23,17 +23,19 @@ The most important product characteristics of OpenStaticAnalyzer are the followi
     - [FindBugs] 3.0.0 coding rule violations
     - [Pylint] 1.8.2 coding rule violations
     - FxCop coding rule violations
+    - [ESLint] coding rule violations
 - Clone detection (copy-pasted source code fragments) extended with clone tracking and "clone smells"
     - Syntax-based, so-called Type-2 clones
 - Metrics calculation at component, file, package, class, method, and function levels:
     - Source code metrics
     - Clone metrics
     - Coding rule violation metrics
-- Supported languages: Java, Python, C# (C/C++ will be available in the near future).
+- Supported languages: Java, Python, C#, JavaScript (C/C++ will be available in the near future).
 
 [PMD]:http://pmd.sourceforge.net/
 [FindBugs]:http://findbugs.sourceforge.net
 [Pylint]:http://www.pylint.org/
+[ESLint]:https://eslint.org/
 
 By continuous static analysis, the software developers can:
 - reduce the software erosion rate and this way decrease development costs;
@@ -41,7 +43,7 @@ By continuous static analysis, the software developers can:
 - the number of errors in delivered software can be reduced, so the operational risks can be decreased, increasing the company's reputation.
 
 ## License
-OpenStaticAnalyzer 3.0 is licensed under the [European Union Public Licence](https://joinup.ec.europa.eu/software/page/eupl) (EUPL) v1.2.
+OpenStaticAnalyzer 4.0 is licensed under the [European Union Public Licence](https://joinup.ec.europa.eu/software/page/eupl) (EUPL) v1.2.
 
 OpenStaticAnalyzer is free software, distributed in the hope that it will be useful, but on an "AS IS" basis, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the LICENSE file for more details.
 
@@ -54,6 +56,8 @@ OpenStaticAnalyzer is free software, distributed in the hope that it will be use
 [Python](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer/blob/master/OpenStaticAnalyzer/python/doc/usersguide/md/Main.md)
 
 [C#](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer/blob/master/OpenStaticAnalyzer/csharp/doc/usersguide/md/Main.md)
+
+[JavaScript](https://github.com/sed-inf-u-szeged/OpenStaticAnalyzer/blob/master/OpenStaticAnalyzer/javascript/doc/usersguide/md/Main.md)
 
 ## Project site
 
